@@ -1,0 +1,13 @@
+.img-fluid{
+    height: 200px;
+    border-radius: 50%;
+}
+body{
+    background-color: #BFEA7C;
+}
+h1{
+    font-family: "Marck Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+  
